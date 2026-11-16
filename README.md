@@ -7,6 +7,18 @@ Coursework application for searching Google Books and saving books to a signed-i
 
 **Built with:** React, TypeScript, GraphQL, Apollo, Express, MongoDB.
 
+## What I built
+
+- Built a Google Books search interface and saved-book views using React and TypeScript.
+- Implemented GraphQL queries and mutations for account registration, login, and each user's saved books.
+- Connected MongoDB models with bcrypt password hashing and JWT authentication.
+
+## Explore the source
+
+- [client/src/pages/SearchBooks.tsx](client/src/pages/SearchBooks.tsx) — Search interface and Google Books requests.
+- [server/src/schemas/resolvers.ts](server/src/schemas/resolvers.ts) — Account and saved-book operations.
+- [server/src/models/User.ts](server/src/models/User.ts) — User schema and password hashing.
+
 ## Run locally
 
 Requires Node.js/npm and MongoDB. From the repository root:
