@@ -1,5 +1,12 @@
 # 📚 Book Search Engine
 
+**Status: Coursework / learning project.**
+
+A coursework book-search application using React, GraphQL, Apollo, and MongoDB.
+
+Preserved as a learning reference; production deployment and current compatibility have not been verified.
+
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
@@ -114,10 +121,10 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-**Timothy McGrath**  
-Email: treewzrd@gmail.com  
+**treeewzrd**  
+Email: contact via GitHub  
 GitHub: [treeewzrd](https://github.com/treeewzrd)
 
 ---
 
-© 2025 Timothy McGrath. All Rights Reserved.
+© 2025 treeewzrd. All Rights Reserved.
