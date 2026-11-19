@@ -1,6 +1,8 @@
 # Book Search
 
-![Status](https://img.shields.io/badge/status-coursework-blue)
+**Coursework for school**
+
+![Coursework](https://img.shields.io/badge/Coursework-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Coursework application for searching Google Books and saving books to a signed-in account.
